@@ -67,18 +67,6 @@ Mỗi `SKILL.md` là 1 cheatsheet/checklist hoàn chỉnh — đọc khi cần l
 - ✅ **Ví dụ thực tế** — dùng cùng 1 use case "Ăn Gì Hôm Nay" / "đặt món" xuyên suốt để dễ liên hệ
 - ✅ **Quote dạng Vietnamese context** — Nghị định 13/2023, VNPay/MoMo/ZaloPay, Misa, Viettel SMS...
 
-## Mở rộng trong tương lai
-
-Có thể bổ sung các skill phụ:
-- `competitor-analysis` — Phân tích đối thủ
-- `swot-analysis` — Phân tích SWOT
-- `change-request-management` — Quản lý thay đổi yêu cầu
-- `prd-writer` — Product Requirements Document (cho PM)
-- `okr-kpi-design` — Thiết kế OKR/KPI
-- `prioritization-frameworks` — MoSCoW, RICE, Kano, Impact-Effort
-
-Nói nếu bạn muốn mình tạo thêm.
-
 ---
 
 **Phiên bản**: 1.0
